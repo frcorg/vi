@@ -534,7 +534,7 @@ img {
 .video-container {
   position: relative;
   overflow: hidden;
-  padding-top: 0%; /* 16:9 aspect ratio (height/width) */
+  padding-top: 48%; /* 16:9 aspect ratio (height/width) */
 }
 
 .responsive-video {
